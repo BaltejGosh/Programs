@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class DuplicateDemo {
+public class uniquechar {
 	public static void main(String args[]) {
 
 		String original = "baalltejj";
@@ -23,7 +23,7 @@ public class DuplicateDemo {
 				sbr.append(aa[i]);
 		}
 
-		System.out.println(sbr);
+	//	System.out.println(sbr);
 	
 	
 	
